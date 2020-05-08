@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">Project1</string>
+    <string name="submit">Submit</string>
+    <string name="register_title">Register</string>
+    <string name="name_hint">Nama</string>
+    <string name="email_hint">Email</string>
+    <string name="password_hint">Password</string>
+    <string name="gender_label">Gender</string>
+    <string name="male_radio">Male</string>
+    <string name="female_radio">Female</string>
+    <string name="logout">Logout</string>
+    <string name="profile">Profile</string>
+    <string name="hello">Hai</string>
+    <string name="insert">Insert</string>
+    <string name="insert_title">Create News</string>
+    <string name="title">Title</string>
+    <string name="body">Body</string>
+    <string name="date">Date</string>
+    <string name="update">Update</string>
+    <string name="delete">Delete</string>
+    <string name="update_title">Update title</string>
+    <string name="create_news">Create News</string>
+</resources>
